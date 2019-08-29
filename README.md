@@ -1,6 +1,7 @@
 # The Modern JavaScript Tutorial in Spanish
 
-This repository hosts the translation of <https://javascript.info> in Spanish.
+Este repositorio funciona como un hospedador de el contenido multilengual de <https://javascript.info>
+
 
 
 **That's how you can contribute:**
