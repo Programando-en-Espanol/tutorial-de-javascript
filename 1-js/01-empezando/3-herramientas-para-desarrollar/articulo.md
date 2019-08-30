@@ -1,38 +1,36 @@
-# Developer console
+# consola de el desarrollador
 
-Code is prone to errors. You will quite likely make errors... Oh, what am I talking about? You are *absolutely* going to make errors, at least if you're a human, not a [robot](https://en.wikipedia.org/wiki/Bender_(Futurama)).
+El código es propenso a errores. Es muy probable que cometas errores ... Oh, ¿de qué estoy hablando? Vas a * absolutamente * cometer errores, al menos si eres un humano, no un [robot] (https://en.wikipedia.org/wiki/Bender_ (Futurama)).
 
-But in the browser, users don't see errors by default. So, if something goes wrong in the script, we won't see what's broken and can't fix it.
+Pero en el navegador, los usuarios no ven errores por defecto. Entonces, si algo sale mal en el script, no veremos lo que está roto y no podemos arreglarlo.
 
-To see errors and get a lot of other useful information about scripts, "developer tools" have been embedded in browsers.
+Para ver los errores y obtener mucha otra información útil sobre los scripts, se han incorporado "herramientas de desarrollo" en los navegadores.
 
-Most developers lean towards Chrome or Firefox for development because those browsers have the best developer tools. Other browsers also provide developer tools, sometimes with special features, but are usually playing "catch-up" to Chrome or Firefox. So most developers have a "favorite" browser and switch to others if a problem is browser-specific.
 
-Developer tools are potent; they have many features. To start, we'll learn how to open them, look at errors, and run JavaScript commands.
+La mayoría de los desarrolladores se inclinan por Chrome o Firefox para el desarrollo porque esos navegadores tienen las mejores herramientas para desarrolladores. Otros navegadores también proporcionan herramientas de desarrollo, a veces con características especiales, pero generalmente están jugando a ponerse al día con Chrome o Firefox. Por lo tanto, la mayoría de los desarrolladores tienen un navegador "favorito" y cambian a otros si un problema es específico del navegador.
+
+Las herramientas de desarrollo son potentes; Tienen muchas características. Para comenzar, aprenderemos cómo abrirlos, observar errores y ejecutar comandos JavaScript.
+
+
+
 
 ## Google Chrome
 
-Open the page [bug.html](bug.html).
+Usando Chrome podras ver los errores en las paginas web bajo la consola. Sigue los pasos por orden:
 
-There's an error in the JavaScript code on it. It's hidden from a regular visitor's eyes, so let's open developer tools to see it.
+Este guia estipulá que ya hayas instalado Chrome como tu navegador
+ 
+1. Entra a tu navegador(Chrome)
 
-Press `key:F12` or, if you're on Mac, then `key:Cmd+Opt+J`.
+2. Haga clic derecho en cualquier lugar de su pantalla
 
-The developer tools will open on the Console tab by default.
+3. Busca el botón de `inspección` y hagale clic
 
-It looks somewhat like this:
+4. Haga clic en el botón de la `consola`
 
-![chrome](chrome.png)
-
-The exact look of developer tools depends on your version of Chrome. It changes from time to time but should be similar.
-
-- Here we can see the red-colored error message. In this case, the script contains an unknown "lalala" command.
-- On the right, there is a clickable link to the source `bug.html:12` with the line number where the error has occurred.
-
-Below the error message, there is a blue `>` symbol. It marks a "command line" where we can type JavaScript commands. Press `key:Enter` to run them (`key:Shift+Enter` to input multi-line commands).
-
-Now we can see errors, and that's enough for a start. We'll come back to developer tools later and cover debugging more in-depth in the chapter <info:debugging-chrome>.
-
+5. Comienza a escribir javascript
+    
+- USANDO EL PROCESSO MENSIONCADO PODRAS HACER ALGO SIMILAR CON OTROS NAVEGADORES 
 
 ## Firefox, Edge, and others
 
