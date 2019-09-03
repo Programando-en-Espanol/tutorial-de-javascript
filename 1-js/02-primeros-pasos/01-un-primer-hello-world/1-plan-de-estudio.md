@@ -5,7 +5,7 @@ El tutorial que está leyendo trata sobre el núcleo de JavaScript, que es indep
 
 Pero necesitamos un entorno de trabajo para ejecutar nuestros scripts y, dado que este libro está en línea, el navegador es una buena opción. Mantendremos la cantidad de comandos específicos del navegador (como alerta) al mínimo para que no pase tiempo en ellos si planea concentrarse en otro entorno (como Node.JS). Nos centraremos en JavaScript en el navegador en la siguiente parte del tutorial.
 
-## The "script" tag
+## el elemento `<script>`
 
 Los programas de JavaScript se pueden insertar en cualquier parte de un documento HTML con la ayuda de la etiqueta `<script>`.
 
@@ -86,7 +86,7 @@ Para adjuntar varios scripts, use varias etiquetas:
 …
 ```
 
-## Summary
+## Resumen
 
 - Podemos usar una etiqueta `<script>` para agregar código JavaScript a una página.
 - Los atributos `type` e` language` no son obligatorios.

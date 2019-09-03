@@ -3,9 +3,9 @@ importance: 5
 ---
 
 
-# mostrar una alerta
+# mostra una alerta usando Javascript
 
-Cree una página que muestre un mensaje "¡Soy JavaScript!".
+Crea una página que muestre un mensaje "¡Soy JavaScript!".
 
 
 [demo src="solution"]
