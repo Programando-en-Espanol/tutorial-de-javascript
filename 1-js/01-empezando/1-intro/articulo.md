@@ -83,7 +83,7 @@ Tales limitaciones no existen si JavaScript es usado fuera del navegador, por ej
 
 ## ¿Qué hace a JavaScript único?
 
-Existen al menos _tres_ geniales cosas acerca de JavaScript:
+Existen al menos _tres_ cosas geniales acerca de JavaScript:
 
 ```compare
 + Completa integración con HTML y CSS..
