@@ -1,6 +1,6 @@
 # Una introducción a JavaScript
 
-Veamos que tiene de especial JavaScript, que podemos lograr con este lenguaje y que otras tecnologías se integran bien con él.
+Veamos que tiene de especial JavaScript, que podemos lograr con este lenguaje, y que otras tecnologías se integran bien con él.
 
 ## ¿Qué es JavaScript?
 
