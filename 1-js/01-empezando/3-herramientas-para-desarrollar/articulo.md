@@ -18,7 +18,7 @@ Las herramientas de desarrollo son potentes; Tienen muchas características. Par
 
 Usando Chrome podras ver los errores en las paginas web bajo la consola. Sigue los pasos por orden:
 
-Este guia estipulá que ya hayas instalado Chrome como tu navegador
+Este guia estipula que ya hayas instalado Chrome como tu navegador
  
 1. Entra a tu navegador(Chrome)
 
@@ -30,7 +30,7 @@ Este guia estipulá que ya hayas instalado Chrome como tu navegador
 
 5. Comienza a escribir javascript
     
-- USANDO EL PROCESSO MENSIONCADO PODRAS HACER ALGO SIMILAR CON OTROS NAVEGADORES 
+- USANDO EL PROCESSO MENCIONADO PODRAS HACER ALGO SIMILAR CON OTROS NAVEGADORES 
 
 ## Firefox, Edge, and others
 
