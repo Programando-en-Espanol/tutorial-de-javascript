@@ -1,4 +1,4 @@
-# consola de el desarrollador
+# Consola de el desarrollador
 
 El código es propenso a errores. Es muy probable que cometas errores ... Oh, ¿de qué estoy hablando? * absolutamente * vas a cometer errores, al menos si eres un humano, no un [robot] (https://en.wikipedia.org/wiki/Bender_ (Futurama)).
 
