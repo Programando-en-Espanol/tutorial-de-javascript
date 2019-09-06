@@ -48,11 +48,11 @@ Open Preferences and go to the "Advanced" pane. There's a checkbox at the bottom
 
 Now `key:Cmd+Opt+C` can toggle the console. Also, note that the new top menu item named "Develop" has appeared. It has many commands and options.
 
-## Multi-line input
+## Entrada de líneas multiples
 
-Usualmente, cuando ponemos una linea de código en la consola, y luego presionamos `tecla:Enter`, se ejecuta.
+Usualmente, cuando ponemos una línea de código en la consola, y luego presionamos `tecla:Enter`, se ejecuta.
 
-Para insertar varias lineas, presiona `tecla:shift+Enter`.
+Para insertar varias líneas, presiona `tecla:shift+Enter`.
 
 ## Resumen
 
