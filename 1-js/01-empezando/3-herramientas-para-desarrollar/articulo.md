@@ -32,9 +32,9 @@ Este guia estipula que ya hayas instalado Chrome como tu navegador
     
 - USANDO EL PROCESSO MENCIONADO PODRAS HACER ALGO SIMILAR CON OTROS NAVEGADORES 
 
-## Firefox, Edge, and others
+## Firefox, Edge, y otros
 
-Most other browsers use `key:F12` to open developer tools.
+La mayoria de los navegadores usan `tecla:F12` para abrir las herramientas de desarrollado.
 
 The look & feel of them is quite similar. Once you know how to use one of these tools (you can start with Chrome), you can easily switch to another.
 
