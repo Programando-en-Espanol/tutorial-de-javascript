@@ -50,11 +50,11 @@ Now `key:Cmd+Opt+C` can toggle the console. Also, note that the new top menu ite
 
 ## Multi-line input
 
-Usually, when we put a line of code into the console, and then press `key:Enter`, it executes.
+Usualmente, cuando ponemos una linea de código en la consola, y luego presionamos `tecla:Enter`, se ejecuta.
 
-To insert multiple lines, press `key:Shift+Enter`.
+Para insertar varias lineas, presiona `tecla:shift+Enter`.
 
-## Summary
+## Resumen
 
 - Developer tools allow us to see errors, run commands, examine variables, and much more.
 - They can be opened with `key:F12` for most browsers on Windows. Chrome for Mac needs `key:Cmd+Opt+J`, Safari: `key:Cmd+Opt+C` (need to enable first).
