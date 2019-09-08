@@ -3,6 +3,10 @@
 Este repositorio funciona como un hospedador de el contenido multilengual de <https://javascript.info>
 
 
+# FORMA DE USO
+
+- empieza por leer el documento `articulo.md` en cada directorio. Este directorio te provera las intrucciones para entender y seguir la seccion elejida.
+
 
 **That's how you can contribute:**
 

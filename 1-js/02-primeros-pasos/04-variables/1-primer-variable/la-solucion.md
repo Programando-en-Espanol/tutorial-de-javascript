@@ -1,6 +1,8 @@
 En el siguiente código, cada línea corresponde al elemento en la lista de tareas.
 
 ```js run
+let variable = "Un primer variable"; // declarando y definiendo un variable. 
+
 let admin, name; // Puedes declarar dos variables a la vez.
 
 name = "John";

@@ -108,6 +108,7 @@ Así que recientemente a aparecido una abundancia de nuevos lenguajes, los cuale
 Las herramientas modernas hacen la conversión (Transpilation) muy rápido y transparente, permitiendo a los desarrolladores codificar en otros lenguajes y convertirlo automáticamente detrás de escena.
 
 Ejemplos de tales lenguajes:
+- [React] (https://reactjs.org/) Las vistas declarativas hacen que su código sea más predecible y más fácil de depurar.
 
 - [CoffeeScript](http://coffeescript.org/) Es una "sintaxis azucarada" [syntactic sugar](https://es.wikipedia.org/wiki/Az%C3%BAcar_sint%C3%A1ctico) para JavaScript. Introduce una sintaxis corta, permitiéndonos escribir un código mas claro y preciso. Usualmente desarrolladores de Ruby prefieren este lenguaje.
 - [TypeScript](http://www.typescriptlang.org/) se concentra en agregar "tipado estricto" ("strict data typing") para simplificar el desarrollo y soporte de sistemas complejos. Es desarrollado por Microsoft.

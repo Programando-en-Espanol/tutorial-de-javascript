@@ -3,7 +3,6 @@
 Lo primero que estudiaremos son los bloques de construcción de código.
 
 ## Declaraciones
-punto y coma = `;`
 
 Las declaraciones son construcciones de sintaxis y comandos que realizan acciones.
 
@@ -24,7 +23,7 @@ alert('Hello');
 alert('World');
 ```
 
-## Semicolons [#semicolon]
+## punto y coma = `;`
 
 Se puede omitir un punto y coma en la mayoría de los casos cuando existe un salto de línea.
 
